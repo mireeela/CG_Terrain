@@ -1,0 +1,11 @@
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/CMakeFiles/CG_Terrain.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/CMakeFiles/INSTALL.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/CMakeFiles/ALL_BUILD.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/CMakeFiles/ZERO_CHECK.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/CMakeFiles/uninstall.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/docs/CMakeFiles/INSTALL.dir

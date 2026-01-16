@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/cmake_install.cmake",
+		"C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/cmake_install.cmake",
+		"C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/src/cmake_install.cmake",
+		"C:/a/prog/cg_3dproject_terrain/CG_Terrain/CG_Terrain/build/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
